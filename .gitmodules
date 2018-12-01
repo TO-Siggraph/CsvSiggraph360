@@ -1,0 +1,12 @@
+[submodule "ae-mettle"]
+	path = ae-mettle
+	url = https://github.com/n1ckfg/ae-mettle
+[submodule "360_depth_test"]
+	path = 360_depth_test
+	url = https://github.com/n1ckfg/360_depth_test
+[submodule "processing-360-video"]
+	path = processing-360-video
+	url = https://github.com/n1ckfg/processing-360-video
+[submodule "pseudoscience_stereo2depth"]
+	path = pseudoscience_stereo2depth
+	url = https://github.com/n1ckfg/pseudoscience_stereo2depth
