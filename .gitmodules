@@ -16,3 +16,6 @@
 [submodule "MeshSequencer"]
 	path = MeshSequencer
 	url = https://github.com/n1ckfg/MeshSequencer
+[submodule "TMAC_Bicycle_Demo"]
+	path = TMAC_Bicycle_Demo
+	url = https://github.com/n1ckfg/TMAC_Bicycle_Demo
