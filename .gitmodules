@@ -13,3 +13,6 @@
 [submodule "Mont_Blanc_Demo"]
 	path = Mont_Blanc_Demo
 	url = https://github.com/n1ckfg/Mont_Blanc_Demo
+[submodule "MeshSequencer"]
+	path = MeshSequencer
+	url = https://github.com/n1ckfg/MeshSequencer
