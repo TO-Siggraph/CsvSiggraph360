@@ -10,3 +10,6 @@
 [submodule "pseudoscience_stereo2depth"]
 	path = pseudoscience_stereo2depth
 	url = https://github.com/n1ckfg/pseudoscience_stereo2depth
+[submodule "Mont_Blanc_Demo"]
+	path = Mont_Blanc_Demo
+	url = https://github.com/n1ckfg/Mont_Blanc_Demo
